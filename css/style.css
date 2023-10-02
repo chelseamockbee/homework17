@@ -1,0 +1,49 @@
+Navigation,
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.logo {
+    width: 100%;
+    padding: 1%;
+    background-color: #002D5C;
+}
+
+nav {
+    width: 73%;
+    padding: 1%;
+    display: inline-block;
+}
+
+ul {
+    width: 50%;
+    margin-left: auto;
+    list-style-type: none;
+    float: right;
+}
+
+li {
+    color: white;
+    float: left;
+    padding: 5%
+}
+
+.footer {
+   background-color: #006BA6;
+   vertical-align: center;
+   width: 80%%;
+}
+
+.address {
+    color: white;
+}
+
+.content img {
+    width: 100%;
+}
+
+h1 {
+    color: white;
+    position: relative;
+}
